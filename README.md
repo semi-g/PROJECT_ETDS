@@ -1,5 +1,6 @@
 # PROJECT_ETDS
 Enhanced Threat Detection System is a test project that uses object detection to detect dangerous objects and alert users.
+<<<<<<< HEAD
 
 
 *Stage 1: Create and test simple Object Detection model using Convolutional Neural Networks
@@ -9,3 +10,5 @@ Enhanced Threat Detection System is a test project that uses object detection to
 
 *Stage 3: Convert the model to a Real-time Object Detection system compatible with and optimized for  
           Raspberry Pi
+=======
+>>>>>>> 6d0437b0c59620af67b26781e0e7ea6801387c54
