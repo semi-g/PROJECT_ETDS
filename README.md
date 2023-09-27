@@ -1,4 +1,4 @@
-# PROJECT_ETDS
+# PROJECT_ETDS (Pre-Alpha)
 Enhanced Threat Detection System is a test project that uses object detection to detect dangerous objects and alert users.
 
 *Stage 1: Create and test simple Object Detection model using Convolutional Neural Networks
